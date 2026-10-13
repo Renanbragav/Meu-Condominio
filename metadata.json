@@ -1,0 +1,6 @@
+{
+  "name": "CondoPrioridades - Gestão e Priorização de Tarefas do Condomínio",
+  "description": "Sistema de cadastro de moradores por bloco e apartamento e priorização democrática de tarefas e melhorias do condomínio com votação única por unidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
